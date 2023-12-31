@@ -1,0 +1,39 @@
+[
+  {
+    
+    "name": "Patil Kaki",
+    "price": "350,0000",
+    "detail": "Savor Success: Patil Kaki's Tech-Infused Delights Revolutionize Online Sweets Market",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Snitch",
+    "price": "66,3539",
+    "detail": "Fashion Forward: Snitch Redefines Elegance, Seamlessly Fusing Style and Technology.",
+    "image": "./r2.png"
+  },
+  {
+    "name": "HooD",
+    "price": "35,8537",
+    "detail": "Hood: Uniting Digital Communities, Redefining Social Connectivity  Platform Solutions.",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Zepto",
+    "price": "47,0432",
+    "detail": "Zepto: Swift, Smart, Seamless - Transforming the Online Delivery Experience",
+    "image": "./r4.png"
+  },
+  {
+    "name": "Sanjari",
+    "price": "66,3531",
+    "detail": "Sanjari: Sparkling Elegance, Your Premier Online Destination for Exceptional Jewelry Pieces.",
+    "image": "./r5.png"
+  },
+  {
+    "name": "InternZilla",
+    "price": "35,8530",
+    "detail": "InternZilla: Elevating Careers, Connecting Talent with Opportunities in the Digital Realm",
+    "image": "./r6.png"
+  }
+]
